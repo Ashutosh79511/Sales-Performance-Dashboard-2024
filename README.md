@@ -2,6 +2,8 @@
 
 A sales analytics project built in Google Sheets simulating real-world business reporting.
 
+![Dashboard](Screenshot 2026-08-22 233808.png)
+
 ## What's inside
 - Raw data of 300 sales orders
 - Data cleaning and transformation
